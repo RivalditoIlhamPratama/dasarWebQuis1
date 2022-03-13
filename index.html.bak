@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<title>Desain Pemograman Web Quis 1</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+		
+<body>
+	<div class="container">
+		<div class="header">
+			<h2 align="center">Selamat datang Di Wisata Raja Ampat</h2>
+		</div> 
+		<br>
+		
+		<div class="left">
+			<h3 align="center">Menu</h3>
+			<ul>
+				<li><a style="text-decoration: none"; a href="http://localhost/dasarWeb2/login.html"> Login </a><hr></li>
+				<br>
+				<li><a style="text-decoration: none"; a href="http://localhost/dasarWeb2/daftar.html"> Daftar </a><hr></li>
+				<br>
+				<li><a style="text-decoration: none"; a href="https://newnormal-rajaampat.com/contact-us/"> Contact US</a><hr></li>
+				<br>
+				<li><a style="text-decoration: none"; a href="https://newnormal-rajaampat.com/"> Ide Libburan</a><hr></li>
+				<br>
+				<li><a style="text-decoration: none"; a href="https://newnormal-rajaampat.com/"> Home </a><hr></li>
+				<br>
+			</ul>
+		</div>
+					
+		<div class="middle">
+			<h4 align="center">Berita</h4>
+			<hr>
+			<h4 align="center">Solusi Perjalanan Wisata Anda </h4>
+			<hr>
+			<center>
+			<img src="Nusantara.png">
+			</center>
+			<hr> 
+			<a style="text-decoration: none"; a href="https://www.indonesia.travel/id/id/destinasi/maluku-papua/raja-ampat"><center>Baca Selengkapnya >>></center></a>
+			<hr>
+		</div>
+					
+		<div class="right">
+			<h3 align="center">Accomodations</h3>
+			<ul>
+				<li><a style="text-decoration: none"; a href="https://newnormal-rajaampat.com/akomodasi-raja-ampat/resort/"> Resort </a><hr></li>
+				<br>
+				<li><a style="text-decoration: none"; a href="https://newnormal-rajaampat.com/akomodasi-raja-ampat/hotel/"> Hotel</a><hr></li>
+				<br>
+				<li><a style="text-decoration: none"; a href="https://newnormal-rajaampat.com/akomodasi-raja-ampat/homestay/"> Home Stay</a><hr></li>
+				<br>
+				<li><a style="text-decoration: none"; a href="https://newnormal-rajaampat.com/akomodasi-raja-ampat/inn/"> Inn </a><hr></li>
+				<br>
+				<li><a style="text-decoration: none"; a href="https://www.pexels.com/id-id/pencarian/kepulauan%20raja%20ampat/"> Sample photo </a><hr></li>
+				<br>
+			</ul>
+		</div>
+		
+		<div class="footer">
+			<p align="center">Copyright &copy; Belajar CSS <p>
+		</div>
+	</div>
+</body>
+	
+</html>
+
+
+	
